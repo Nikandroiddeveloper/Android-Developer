@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	<category>
+    <pattern>Hi</pattern>
+    <template>Hi.</template>
+  </category>
+  	<category>
+    <pattern>Hello</pattern>
+    <template>How can I help you?.</template>
+  </category>
+  	<category>
+    <pattern>Collge Name</pattern>
+    <template>Hello Welcome To AITRC College.</template>
+  </category>
+  	<category>
+    <pattern>How many Streams </pattern>
+    <template>1.Computer science  2 ENTC 3.ME 4.CE..</template>
+  </category>
+  
+  	<category>
+    <pattern>College Contact Details</pattern>
+    <template>You can reach our college :
+                  By phone at  +91 02347229021
+                  By email at admissioncell@aitrcvita.edu.in
+                  By visiting us at Khambale, Vita, Maharashtra 415311</template>
+  </category>
+  	<category>
+    <pattern>Is there a master degree in college</pattern>
+    <template>No</template>
+  </category>
+  	<category>
+    <pattern>Admission procedure</pattern>
+    <template>Admission Procedure,
+    in general, will be as per the
+    rules and regulations laid by 
+    the Directorate of Technical Education(DTE), 
+    Maharashtra State.
+    The eligibility criteria for admission will be according to the norms of 
+    DTE and Shivaji University, Kolhapur/BATU, Lonere.</template>
+  </category>
+  	<category>
+    <pattern>What is the office timing</pattern>
+    <template>10AM To 5PM</template>
+  </category>
+  
+  <category>
+    <pattern>What is the library timing</pattern>
+    <template>10AM To 5PM</template>
+  </category>
+   <category>
+    <pattern>Is there a mess and hostel available  in college</pattern>
+    <template>Yes</template>
+  </category>
+  
+  <category>
+    <pattern>Hostel fees rent</pattern>
+    <template>Min 20000 -Max40000(for year)</template>
+  </category>
+  
+  <category>
+    <pattern>Please tell me about hostel facility</pattern>
+    <template>Mess available, Water facility, Bed and Study table</template>
+  </category>
+    <category>
+    <pattern>Is there a bus facility in college</pattern>
+    <template>Yes</template>
+  </category>
+  
+  
+  
+</aiml>
